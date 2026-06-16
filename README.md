@@ -1,4 +1,4 @@
-# multi-thread-crawle
+# multi-thread-crawler
 A simple multi-threaded crawler for downloading high-definition wallpapers
 这是我的第二个爬虫项目，相较于我的第一个项目，他已经不再那么的简陋，具有了多线程爬取和一定的反反爬能力。但是问题依旧明显，遇到反爬能力高的网站就显得力不从心。依次依然只推荐把该项目作为一个爬虫的素材来使用。
 2026-6-15 简单的多线程爬虫
